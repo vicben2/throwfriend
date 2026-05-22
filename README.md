@@ -1,2 +1,2 @@
 # throwfriend
-Abandoned proj, was fun when I had nothing to do during pandemic
+Released build here: https://vinnicci.itch.io/throwfriend
